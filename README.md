@@ -1,7 +1,7 @@
 # Pac-Man edge detection project 
 Pac-Man moves back and forth within a window based on screen edge detection 
 
-Installation: drag and drop the pacman.js file onto a blank browser to see pac-man chomp from right to left on repeat 
+Installation: drag and drop the pacman.js file onto a blank browser to see Pac-Man chomp from right to left on repeat 
 
 Usage: displays alternating images of Pac-Man and moves using setInterval() method, reverses direction using screen edge detection. Can be used to see x-axis screen edge detection code using JavaScript. 
 
