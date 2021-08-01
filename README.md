@@ -1,5 +1,6 @@
-> # **Pac-Man edge detection project** 
-Pac-Man moves back and forth within a window. The purpose of this project was to implement the setInterval() method and to learn to write code to reverse the direction of a moving image using screen edge detection. 
+> # **Pac-Man edge detection project**   <img src="https://cdn.pixabay.com/photo/2013/07/12/15/20/pacman-149704_1280.png" width="200"/>
+
+Pac-Man moves back and forth within a window. The purpose of this project was to implement the setInterval() method and to learn to write code to reverse the direction of a moving image using screen edge detection.  
 
 **Installation:** Click the link https://shrewd-puma-ht1v-8080.nt.run/ to see Pac-Man chomp from right to left on repeat  
 
