@@ -1,5 +1,5 @@
-# Pac-Man edge detection
-Pac-Man moves back and forth across the screen based on screen edge detection 
+# Pac-Man edge detection project 
+Pac-Man moves back and forth within a window based on screen edge detection 
 
 Installation: drag and drop the pacman.js file onto a blank browser to see pac-man chomp from right to left on repeat 
 
